@@ -8,7 +8,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>Model2 MVC Shop Git설정테스트</title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
